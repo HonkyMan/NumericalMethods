@@ -1,7 +1,7 @@
 # Lines starting with '#' are considered comments.
 # Ignore any file named foo.txt.
 ChMeth.sln
-ChMeth.csproj.*
+*.csproj.*
 ChMeth.AssemblyInfo.*
 *.pdb
 Interop.Microsoft.*
