@@ -2,6 +2,7 @@
 # Ignore any file named foo.txt.
 ChMeth.sln
 *.csproj.*
+*.csproj
 ChMeth.AssemblyInfo.*
 *.pdb
 Interop.Microsoft.*
